@@ -1,2 +1,2 @@
 # springBoot-springSecurity-keycloak
-springboot+springSecurity集成keycloak
+完成springBoot对Keycloak的集成工作，并将keycloak用户在本地注册
